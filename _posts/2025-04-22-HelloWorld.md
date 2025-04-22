@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HelloWorld"
-date: 2025-04-22 21:52:50 -1234
+date: 2025-04-22
 categories: TestCat1 TestCat2
 tags: Tag1 Tag2 Tag3
 ---
