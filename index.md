@@ -1,5 +1,6 @@
 ---
 layout: home
+title: All my posts
 ---
 <!-- theme from: https://github.com/pages-themes/hacker-->
 
