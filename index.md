@@ -11,6 +11,6 @@ title: All my posts
 {{ post.excerpt }}
 
 [Full Article]({{ post.url | relative_url }})
-___
+<hr>
 {% endfor %}
 
