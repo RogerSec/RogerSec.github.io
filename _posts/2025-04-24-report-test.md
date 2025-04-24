@@ -2,7 +2,7 @@
 layout: post
 title: "Report Test"
 date: 2025-04-24
-categories: [reverse-engineering, malware-analysis]
+categories: [Reverse Engineering, Malware-Analysis]
 ---
 
 # Title of report
