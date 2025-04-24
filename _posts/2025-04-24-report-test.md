@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "report test"
-date: 2025-04-24
+title: "Title of report"
+date: 202X-XX-XX
 categories: [reverse-engineering, malware-analysis]
 ---
 
-# Report Test
+# Title of report
 
 ## Executive Summary
     Brief overview of the malware, its impact, and key findings from the analysis.
@@ -35,6 +35,11 @@ categories: [reverse-engineering, malware-analysis]
     File paths and registry keys modified by the malware.
 
 ## 4. (Opt) Static Analysis
+
+<details><summary>Expandable section</summary>
+hidden information
+</details>
+    
     File properties (size, type, creation date).
     Strings analysis (notable strings found in the binary).
     Import/export table analysis (libraries and functions used).
