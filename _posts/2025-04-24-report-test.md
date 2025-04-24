@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title of report"
+title: "Report Test"
 date: 2025-04-24
 categories: [reverse-engineering, malware-analysis]
 ---
