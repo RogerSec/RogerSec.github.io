@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Title of report"
-date: 202X-XX-XX
+date: 2025-04-24
 categories: [reverse-engineering, malware-analysis]
 ---
 
